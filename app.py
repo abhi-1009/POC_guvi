@@ -1,0 +1,2 @@
+"hello world"
+import cred
